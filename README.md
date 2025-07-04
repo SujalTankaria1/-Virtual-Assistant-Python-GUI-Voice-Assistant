@@ -1,4 +1,4 @@
-# Virtual Assistant
+#  🤖 Virtual Assistant
 
 A Python-based virtual assistant with GUI interface using tkinter, speech recognition, and text-to-speech capabilities.
 
@@ -85,6 +85,16 @@ Virtual Assistant/
 ├── run_assistant.py        # Main launcher
 └── README.md              # This file
 \`\`\`
+
+## Screenshots 
+
+
+![Virtual Assistant ](images/virtual_Assistant_eg.png)
+
+![Terminal Preview](images/SS_of_terminal.png)
+
+
+
 
 ## Troubleshooting
 
