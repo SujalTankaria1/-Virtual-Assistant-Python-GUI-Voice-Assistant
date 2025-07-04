@@ -86,16 +86,6 @@ Virtual Assistant/
 └── README.md              # This file
 \`\`\`
 
-## Screenshots 
-
-
-![Virtual Assistant ](images/virtual_Assistant_eg.png)
-
-![Terminal Preview](images/SS_of_terminal.png)
-
-
-
-
 ## Troubleshooting
 
 1. **Microphone not working:**
